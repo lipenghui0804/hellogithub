@@ -55,9 +55,11 @@ int main(void) {
 		printf("i=%d\r\n",i);
 	}
 
-	printf("hello github");
-	printf("hello github1");
-	printf("hello github2");
+	printf("hello github\r\n");
+	printf("hello github1\r\n");
+	printf("hello github2\r\n");
+
+	printf("desp say:hello\r\n");
 
 
 	return EXIT_SUCCESS;
