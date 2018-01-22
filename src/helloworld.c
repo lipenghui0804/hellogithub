@@ -60,6 +60,7 @@ int main(void) {
 	printf("hello github2\r\n");
 
 	printf("desp say:hello\r\n");
+	printf("lph sya :hello\r\n");
 
 
 	return EXIT_SUCCESS;
