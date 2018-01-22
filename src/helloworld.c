@@ -56,6 +56,8 @@ int main(void) {
 	}
 
 	printf("hello github");
+	printf("hello github1");
+	printf("hello github2");
 
 
 	return EXIT_SUCCESS;
