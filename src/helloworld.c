@@ -55,6 +55,8 @@ int main(void) {
 		printf("i=%d\r\n",i);
 	}
 
+	printf("hello github");
+
 
 	return EXIT_SUCCESS;
 }
